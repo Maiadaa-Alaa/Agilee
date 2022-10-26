@@ -6,5 +6,6 @@ int main()
 	x = 2;
 	cout << "x = " << x;
 	cout << "i";
+	
 
 }
