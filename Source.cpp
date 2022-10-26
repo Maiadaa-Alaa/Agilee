@@ -4,6 +4,6 @@ int main()
 {
 	int x = 2;
 	x = 2;
-	cout << "x =" << x;
-	cout << "iam = x";
+	cout << "x = " << x;
+
 }
