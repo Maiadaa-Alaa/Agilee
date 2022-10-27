@@ -7,5 +7,6 @@ int main()
 	cout << "x = " << x;
 	cout << "i";
 	cout << "honey";
+	cout << "m";
 
 }
